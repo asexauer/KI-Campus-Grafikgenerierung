@@ -1,0 +1,12 @@
+name: ki_campus_grafikgenerierung
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scipy
